@@ -10,12 +10,14 @@ import {
   NavigationMenuContent,
 } from "@/components/ui/navigation-menu";
 
+import { ReactComponent as MyIcon } from "../../assets/images/logo.svg";
+
 export function MainNav() {
   return (
     <NavigationMenu>
       <NavigationMenuList>
-         <NavigationMenuItem>
-          <img src="" alt="" />
+        <NavigationMenuItem>
+          
         </NavigationMenuItem>
 
         <NavigationMenuItem>
